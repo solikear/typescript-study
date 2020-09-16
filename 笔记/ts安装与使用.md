@@ -1,10 +1,10 @@
 # TypeScript 安装
 
+```
 npm install -g typescript
-
-tsc -v 查看tsc版本
-tsc --help 查看指令
-
+tsc -v  查看tsc版本
+tsc --help  查看指令集
+```
 
 # TypeScript 编译
 ```
